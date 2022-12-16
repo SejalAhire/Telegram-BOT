@@ -1,0 +1,80 @@
+[
+  {
+    "id": "68c724aa-c1a1-49ab-a815-28f8b75c08ce",
+    "data": [
+      {
+        "text": "How to proceed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bdfc7a3-24a8-43a9-8b58-61814111f860",
+    "data": [
+      {
+        "text": "i dont know what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca3b4def-cc68-4158-9673-ae7c59621e84",
+    "data": [
+      {
+        "text": "help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98c1f9b9-b93b-4d79-ad69-7af0f10af5f3",
+    "data": [
+      {
+        "text": "could you please help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83ee4be7-2332-460d-8d11-c5b77dbeb534",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6be75256-e1fb-482e-af57-67083b7ded68",
+    "data": [
+      {
+        "text": "please help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

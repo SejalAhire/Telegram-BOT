@@ -1,0 +1,350 @@
+[
+  {
+    "id": "1d82368c-dd75-43b7-9513-cfc2c0cc2d11",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "57 leu",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "usd",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1ad57a1-5356-42e8-a54a-784eda3fdfe5",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "56 dollar",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "inr",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60042d90-6ec7-46f7-b99d-34e53a963418",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "56 lari",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "kip",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a43fb5f-9c8d-4838-8f72-98cf73a6b7d2",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "15 peso",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "naira",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fa3c826-7061-439f-a96c-0c69997a8b8e",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "10 won",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "baht",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b22b48d-7017-4b67-9a42-5f23dddbbe8b",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "56 baht",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "won",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a07b65c0-a09f-4405-aed0-423a1334590f",
+    "data": [
+      {
+        "text": "transform ",
+        "userDefined": false
+      },
+      {
+        "text": "100 ruble",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "yen",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a080547f-bc2c-4e9d-8a78-bea5a4ff40d4",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "100 yen",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "inr",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cec05ab2-b8d4-4800-925a-a769721bde58",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "100 taka",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "euros",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "798194fc-f5fb-45fd-8a6c-53f108df7871",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "15 euros",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "US dollars",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e26addc0-3253-4e54-907f-d2b18253c1a9",
+    "data": [
+      {
+        "text": "please convert ",
+        "userDefined": false
+      },
+      {
+        "text": "200 pounds",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "rupees",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cef3232-180f-4c96-b355-3bbdc325cad3",
+    "data": [
+      {
+        "text": "can you convert ",
+        "userDefined": false
+      },
+      {
+        "text": "500 rupees",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "US dollars",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]
